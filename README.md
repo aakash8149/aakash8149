@@ -19,7 +19,7 @@ As a firm believer in learning by doing, I constantly engage in developing meani
 - **Frameworks & Libraries**: Spring Boot, Hibernate, NumPy, Pandas, Scikit-learn, Matplotlib
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, GitHub, Docker, Jenkins, Postman, VS Code, IntelliJ Idea
-- **Cloud & DevOps**: AWS (beginner, learning daily), Railway.app, CI/CD
+- **Cloud & DevOps**: AWS (beginner level - Basic), Railway.app, CI/CD
 - 
 ## 🤝 Let’s Collaborate
 
