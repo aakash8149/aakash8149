@@ -1,22 +1,35 @@
 # 👋 Hi there, I'm Aakash Das
 
-🎓 Computer Science Undergrad | 💡 Innovator | 🧠 ML & AI Enthusiast |
+Java Backend Developer | Spring Boot & Microservices | Bridging Traditional Backend with AI Logic | Python
 📍 Burdwan, West Bengal | 🌐 Open to Collaborations & Research | 🧑‍💻 Currently building real-world systems
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science student at Sister Nivedita University, Kolkata, with a deep interest in solving real-world problems through technology. My primary focus lies in **Artificial Intelligence**, **Machine Learning** and **Spring Boot** Applications development. I love to incorporate AI Automation features wherever possible in any Kind of software, Management Systems. I aim to build intelligent and scalable systems.
+I build backend systems that don't just function—they optimize.​
 
-As a firm believer in learning by doing, I constantly engage in developing meaningful projects that combine innovation with impact. My current mission is to break into the tech industry as an **Software Engineer** while continuously upgrading my skills and contributing to cutting-edge solutions.
+Mission
+My career is driven by a fascination with the logic behind the screen. As a final-year Computer Science engineer, my purpose is to design scalable, high-performance backend architectures using Java and Spring Boot. I am passionate about moving beyond basic CRUD operations to integrate Python-based AI modules directly into enterprise systems, making software smarter and more efficient.
+
+​Key Experiences
+​Architecting Intelligent Banking Solutions: In my independent work building a Smart AI-Powered Banking System, I didn't just write code; I solved efficiency problems. By integrating Python-based NLP and fraud detection modules into a Spring Boot architecture, I automated workflows that reduced manual processing by 60% and improved API responsiveness by 30-40%.​
+
+Core Competencies
+​Backend Development: Java, Spring Boot, Spring Security, Hibernate, Microservices, REST APIs. ​
+Database & Cloud: SQL (MySQL, PostgreSQL), Docker, AWS (Basics).
+​AI & Logic Integration: Python, Text-to-SQL Automation, Scikit-learn, DSA. ​
+Work Ethic: Rapid learning, analytical thinking, and task ownership.
+
+​Moving Forward
+I am currently seeking a challenging role as a Software Engineer or Backend Developer where I can apply my "Rapid Learning" mindset to solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: Java (Advanced), Python, C, SQL, JavaScript (Basics)
-- **Frameworks & Libraries**: Spring Boot, Hibernate, NumPy, Pandas, Scikit-learn, Matplotlib
+- **Frameworks & Libraries**: Spring Boot, Hibernate,
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, GitHub, Docker, Jenkins, Postman, VS Code, IntelliJ Idea
 - **Cloud & DevOps**: AWS (Beginner level - Basic), Railway.app, CI/CD
